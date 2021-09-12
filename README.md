@@ -10,8 +10,7 @@ This is the repository for assignment 2. It contains the following files:
 * `Project.toml` packages for the Julia environment.
 * `vae.jl` starter code for assignment in Julia.
 * `example_flux_model.jl` code which illustrates how to use Flux.jl
-* `variational_autoencoder.py` starter code if you would like to use Python with autograd.
-* `loadMNIST.py` utility functions of python loading data.
+
 
 ## Submitting with Github Classroom
 If you are a registered student in the course, you will receive a link to accept this assignment which will `git clone` this repository through GitHub Classroom.
